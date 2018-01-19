@@ -73,6 +73,10 @@ figcaption {
 
 /*LAYOUT*/
 
+* {
+  box-sizing: border-box;
+}
+
 img, video, audio {
   max-width: 100%;
 }
